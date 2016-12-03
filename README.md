@@ -1,1 +1,0 @@
-# api_hotel_prototype
